@@ -22,6 +22,38 @@ Using Lola's old recipe book, you cook and serve well-loved Filipino dishes like
 
 ---
 
+## Screenshots
+
+*(Upload your images to a `screenshots/` folder in this repo, then update the filenames below to match.)*
+
+![Main Menu with Logo](screenshots/main-menu.png)
+
+![Level Menu (Day 1-3)](screenshots/level-menu.png)
+
+![Lola's Recipe Book (Sinigang)](screenshots/recipe-book.png)
+
+![Cooking Phase: Picking of Ingredients](screenshots/cooking-ingredients.png)
+
+![Cooking Phase: Actual Cooking (Adobo)](screenshots/cooking-adobo.png)
+
+![Serving Phase](screenshots/serving-phase.png)
+
+![Customer Review - 1 Star](screenshots/review-1star.png)
+
+![Customer Review - 2 Star](screenshots/review-2star.png)
+
+![Customer Review - 3 Star](screenshots/review-3star.png)
+
+![Level Status Panels](screenshots/level-status.png)
+
+---
+
+## Download the Game
+
+The APK file for Kusimania can be found under the **Releases** section of our project repository.
+
+---
+
 ## Who Will Play This Game?
 
 **Age Group**
@@ -119,12 +151,6 @@ We built Kusimania using **Unity**, with a clean and standard project setup:
 - `Resources` – assets loaded dynamically while the game runs
 - `StreamingAssets` – raw bundled files
 - `Settings` – URP and quality settings
-
----
-
-## Download the Game
-
-The APK file for Kusimania can be found under the **Releases** section of our project repository.
 
 ---
 
