@@ -2,7 +2,6 @@
 
 **Final Project for IT 015 – Introduction to Game Development**
 **2nd Year, 1st Semester**
-**Group 1**
 
 ## Our Team
 
