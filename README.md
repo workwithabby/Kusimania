@@ -24,8 +24,6 @@ Using Lola's old recipe book, you cook and serve well-loved Filipino dishes like
 
 ## Screenshots
 
-*(Upload your images to a `screenshots/` folder in this repo, then update the filenames below to match.)*
-
 ![Main Menu with Logo](screenshots/main-menu.png)
 
 ![Level Menu (Day 1-3)](screenshots/level-menu.png)
@@ -37,14 +35,6 @@ Using Lola's old recipe book, you cook and serve well-loved Filipino dishes like
 ![Cooking Phase: Actual Cooking (Adobo)](screenshots/cooking-adobo.png)
 
 ![Serving Phase](screenshots/serving-phase.png)
-
-![Customer Review - 1 Star](screenshots/review-1star.png)
-
-![Customer Review - 2 Star](screenshots/review-2star.png)
-
-![Customer Review - 3 Star](screenshots/review-3star.png)
-
-![Level Status Panels](screenshots/level-status.png)
 
 ---
 
