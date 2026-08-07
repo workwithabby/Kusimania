@@ -22,19 +22,18 @@ Using Lola's old recipe book, you cook and serve well-loved Filipino dishes like
 
 ---
 
-## Screenshots
+## Game Mockups
 
-![Main Menu with Logo](screenshots/main-menu.png)
+<div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 10px;">
+  <img src="screenshots/main-menu.png" width="300" alt="Main Menu">
+  <img src="screenshots/level-menu.png" width="300" alt="Level Menu">
+  <img src="screenshots/recipe-book.png" width="300" alt="Lola's Recipe Book">
+  <img src="screenshots/cooking-ingredients.png" width="300" alt="Cooking Phase 1">
+  <img src="screenshots/cooking-adobo.png" width="300" alt="Cooking Phase 2">
+  <img src="screenshots/serving-phase.png" width="300" alt="Serving Phase">
 
-![Level Menu (Day 1-3)](screenshots/level-menu.png)
+</div>
 
-![Lola's Recipe Book (Sinigang)](screenshots/recipe-book.png)
-
-![Cooking Phase: Picking of Ingredients](screenshots/cooking-ingredients.png)
-
-![Cooking Phase: Actual Cooking (Adobo)](screenshots/cooking-adobo.png)
-
-![Serving Phase](screenshots/serving-phase.png)
 
 ---
 
